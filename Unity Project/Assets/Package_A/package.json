@@ -1,0 +1,28 @@
+{
+  "name": "com.companyname.package_a",
+  "version": "0.0.1",
+  "displayName": "Package A",
+  "description": "Package A,\n A dummy package. With a dummy description.",
+  "unity": "2018.1",
+  "keywords": [
+    "keyword1", 
+    "keyword2"
+  ],
+  "samples": {
+    
+  },
+  "dependencies": {
+    "url": "https://github.com/cutopia/upmpackage.git"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cutopia/upmpackage.git"
+  },
+  "author": {
+    "name" : "John Doe", 
+    "email" : "john.doe@example.com", 
+    "url" : "http://john.doe.example.com/"
+  }
+  
+  
+}
