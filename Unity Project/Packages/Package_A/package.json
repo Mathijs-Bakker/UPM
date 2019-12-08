@@ -1,6 +1,6 @@
 {
   "name": "com.unity.package_a",
-  "version": "0.0.1-preview",
+  "version": "0.0.1",
   "displayName": "Package A",
   "description": "Package A,\n A dummy package. With a dummy description.",
   "unity": "2018.1",
