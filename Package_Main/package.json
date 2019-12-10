@@ -1,7 +1,7 @@
 {
-  "name": "com.unity.package_a",
+  "name": "com.unity.package_main",
   "version": "1.0.0",
-  "displayName": "Package A",
+  "displayName": "Package Main",
   "description": "Package A,\nA dummy package. With a dummy description.\nWith an extra line here...\nAnd another one here.\nAin't that cool?",
   "unity": "2018.1",
   "keywords": [
