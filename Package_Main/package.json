@@ -14,10 +14,8 @@
     "url": "https://github.com/Mathijs-Bakker/UPM/tree/develop/Unity%20Project/Packages/Package_A"
   },
   "dependencies": {
-    "com.unity.ide.rider": "1.1.3"
-  },
-  "relatedPackages": {
-    "com.unity.test-framework.tests": "1.1.8"
+    "type": "git",
+    "url": "https://github.com/mob-sakai/UpmGitExtension.git"
   },
   "samples": [
     {
