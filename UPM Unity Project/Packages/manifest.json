@@ -40,5 +40,11 @@
     "com.unity.modules.vr": "1.0.0",
     "com.unity.modules.wind": "1.0.0",
     "com.unity.modules.xr": "1.0.0"
+  },
+  "lock": {
+    "com.coffee.upm-git-extension": {
+      "revision": "HEAD",
+      "hash": "d68a3d083f7f9d737c48371e691b96d0644b415d"
+    }
   }
 }
